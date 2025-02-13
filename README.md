@@ -52,5 +52,6 @@ This project is a **decentralized to-do application (dApp)** that integrates **b
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/decentralized-todo-app.git
+git clone https://github.com/gauravverma9795/decentralized-todo-app/tree/main
+
 cd decentralized-todo-app
